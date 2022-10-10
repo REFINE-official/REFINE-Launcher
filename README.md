@@ -1,6 +1,6 @@
 <p align="center"><img src="./app/assets/images/SealCircle.svg" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">沼ランチャー</h1>
+<h1 align="center">REFINEランチャー</h1>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
@@ -8,9 +8,9 @@
 
 | Platform | File |
 | -------- | ---- |
-| Windows x64 | `NumaLauncher-setup-VERSION.exe` |
-| macOS with Intel CPU | `NumaLauncher-setup-VERSION.dmg` |
-| macOS with AppleSilicon CPU | `NumaLauncher-applesilicon-setup-VERSION.dmg` |
+| Windows x64 | `REFINELauncher-setup-VERSION.exe` |
+| macOS with Intel CPU | `REFINELauncher-setup-VERSION.dmg` |
+| macOS with AppleSilicon CPU | `REFINELauncher-applesilicon-setup-VERSION.dmg` |
 | Linux x64 | `サポート対象外` |
 
 ## Console

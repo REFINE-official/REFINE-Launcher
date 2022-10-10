@@ -1,13 +1,13 @@
 {
-    "name": "numalauncher",
-    "version": "3.0.0",
-    "productName": "NumaLauncher",
-    "description": "沼でも使えるMinecraftランチャー",
-    "author": "Daniel Scalzi (https://github.com/dscalzi/), Kamesuta (https://github.com/Kamesuta/)",
+    "name": "refinelauncher",
+    "version": "0.0.1",
+    "productName": "REFINELauncher",
+    "description": "REFINEMC用のランチャー",
+    "author": "Daniel Scalzi (https://github.com/dscalzi/), Tiruha (https://github.com/neruha/)",
     "license": "UNLICENSED",
-    "homepage": "https://github.com/TeamKun/NumaLauncher",
+    "homepage": "https://github.com/REFINE-official/REFINEMC-Launcher",
     "bugs": {
-        "url": "https://github.com/TeamKun/NumaLauncher/issues"
+        "url": "https://github.com/REFINE-official/REFINEMC-Launcher/issue"
     },
     "private": true,
     "main": "index.js",
@@ -57,6 +57,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TeamKun/NumaLauncher.git"
+        "url": "git+https://github.com/REFINE-official/REFINEMC-Launcher.git"
     }
 }
