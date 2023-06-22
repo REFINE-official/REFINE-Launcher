@@ -46,7 +46,7 @@ builder.build({
             maintainer: 'Daniel Scalzi, REFINE',
             vendor: 'Daniel Scalzi, REFINE',
             synopsis: 'REFINEMC専用のランチャー。',
-            description: 'REFINEMC加するためのすべてがここに。Mod、コンフィグ、アップデートが全自動で揃います。',
+            description: 'REFINEMCに参加するためのすべてがここに。Mod、コンフィグ、アップデートが全自動で揃います。',
             category: 'Game'
         },
         compression: 'maximum',
